@@ -6,7 +6,7 @@ Hey there I am a experienced software developer with over 3 years of experience 
 
 In my current role, I am responsible for building software for startups to help them validate their ideas in the pre-seed stage. In my free time, I enjoy exploring Raspberry Pi software such as Pi hole, Hyperion, Home Assistant, and Paperless-ngx.
 
-I am passionate about collaborating on new projects and solving real-world problems, particularly in the fintech industry. I am always looking for opportunities to learn and grow as a developer. If you would like to learn more about my skills and experience, please visit my website at tanmaym.tech.
+I am passionate about collaborating on new projects and solving real-world problems, particularly in the fintech industry. I am always looking for opportunities to learn and grow as a developer. If you would like to learn more about my skills and experience, please visit my [website](https://www.tanmaym.tech).
 
 <!--
 **Tanmaymundra/tanmaymundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
