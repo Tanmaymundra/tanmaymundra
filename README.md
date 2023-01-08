@@ -1,9 +1,15 @@
-### Hi there 👋
+
+
+## Bio
+
+Hey there I am a experienced software developer with over 3 years of experience building full stack applications from scratch, I am skilled in a variety of technologies including NextJS, NestJS, Angular, AWS, MySQL, MongoDB, and Flutter. I have a strong track record of integrating with third-party services such as Stripe, Twilio, and Sendgrid.
+
+In my current role, I am responsible for building software for startups to help them validate their ideas in the pre-seed stage. In my free time, I enjoy exploring Raspberry Pi software such as Pi hole, Hyperion, Home Assistant, and Paperless-ngx.
+
+I am passionate about collaborating on new projects and solving real-world problems, particularly in the fintech industry. I am always looking for opportunities to learn and grow as a developer. If you would like to learn more about my skills and experience, please visit my website at tanmaym.tech.
 
 <!--
 **Tanmaymundra/tanmaymundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
