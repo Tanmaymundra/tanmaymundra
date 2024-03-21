@@ -2,7 +2,7 @@
 
 ## Bio
 
-Hey there I am a experienced software developer with over 3 years of experience building full stack applications from scratch, I am skilled in a variety of technologies including NextJS, NestJS, Angular, AWS, MySQL, MongoDB, and Flutter. I have a strong track record of integrating with third-party services such as Stripe, Twilio, and Sendgrid.
+Hey there I am a experienced software developer with over 4 years of experience building full stack applications from scratch, I am skilled in a variety of technologies including NextJS, NestJS, Angular, AWS, MySQL, MongoDB, and Flutter. I have a strong track record of integrating with third-party services such as Stripe, Twilio, and Sendgrid.
 
 In my current role, I am responsible for building software for startups to help them validate their ideas in the pre-seed stage. In my free time, I enjoy exploring Raspberry Pi software such as Pi hole, Hyperion, Home Assistant, and Paperless-ngx.
 
